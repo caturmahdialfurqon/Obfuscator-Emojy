@@ -9,11 +9,23 @@ Since the previous script hasn't worked on Python 3 for four years and I've encr
 
 ## How To Use
 - Clone this Repo
-- Install reqruirements.txt with pip
+- Go to Folder
+```bash
+cd Update-CODE-Python3
+```
+- Install reqruirements.txt with pip (venv)
 ```bash
 pip install -r requirements.txt
 ```
-- For more clarity and completeness, you can see the gif video below:
+or 
+
+- Install reqruirements.txt with Python3
+```bash
+python3 -m pip install -r requirements.txt
+```
+- python flymoji.py / python3 flymoji.py
+
+## For more clarity and completeness, you can see the gif video below:
   
 <img src="Asset-Gif/CleanShot 2024-10-26 at 08.51.15.gif">
 
