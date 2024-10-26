@@ -1,7 +1,31 @@
-# Obfuscate your python source code with Emojy 😬 🤯  😬 🤫  🤣 😂
+# 🐍 Obfuscate Your Python Source Code with Emojy 😬 🤯  😬 🤫  🤣 😂
 
-📰 Tools Obfuscate v.1.1📍 this tool will obfuscate the source code of your python script with emojis or emoticons,
-but keep in mind, I do not guarantee the security of your source code , best regard ❚█══ caturmahdialfurqon ══█❚,
+📰 Emojis and emoticons will be used in this script to obfuscate your Python source code. However, please note that I cannot guarantee the security of your source code once this process is complete. 
+
+## Update and Upgrade With Python 3
+  - at sat 26 oct 2024
+    
+Since the previous script hasn't worked on Python 3 for four years and I've encrypted its source code, I'm ashamed that I pinned this repository without updating it. I'd like to update it with open source code and make it more user-friendly.
+
+## How To Use
+- Clone this Repo
+- Install reqruirements.txt with pip
+```bash
+pip install -r requirements.txt
+```
+- For more clarity and completeness, you can see the gif video below:
+  
+<img src="Asset-Gif/CleanShot 2024-10-26 at 08.51.15.gif">
+
+<hr>
+<hr>
+
+
+## Old readme.md
+- For this version of Python 2, I absolutely dislike scripting tools that used Argparse because it appears so time-consuming and complicated. However, old posts create memories, which is why I keep them up. Hehe.
+<hr>
+<hr>
+best regard ❚█══ caturmahdialfurqon ══█❚,
 🔔 2020.
 
 
@@ -31,21 +55,3 @@ usage:
 
 <img src="/IMG/tools.png" width=600>
 
-
-## 🤜🏻🤛🏻 For Support
-
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
-
-[![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
-<br>
-[![Paypal Furqonic](https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat)](https://paypal.me/caturmahdialfurqon)
-<br>
-[![BSC Furqonic](https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://etherscan.io/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06)
-<br>
-[![BTC Furqonic](https://img.shields.io/badge/BTC-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![DOGE Furqonic](https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![LTC Furqonic](https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-
-<br>
